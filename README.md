@@ -6,4 +6,4 @@ Blending **2+ years of hands-on experience** in Advanced Excel modeling (WAPE, M
 - 🛠️ **Tech Stack:** SQL (SQLite, PostgreSQL) | Python (Pandas, Seaborn) | Power BI | Advanced Excel
 - 📊 **Domain Expertise:** RevOps, Demand Forecasting, Supply Chain & Logistics, Pipeline Analytics
 - 🌐 **Languages:** English (Fluent) | Portuguese (Native) | Spanish (Fluent) | Japanese (Conversational)
-- 📬 **Connect with me:** [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/edson-moromizato/)) | [Email](mailto:edson.moromizato@gmail.com)
+- 📬 **Connect with me:** [LinkedIn]([https://linkedin.com/in/edson-moromizato](https://www.linkedin.com/in/edson-moromizato/)) | [Email](mailto:edson.moromizato@gmail.com)
